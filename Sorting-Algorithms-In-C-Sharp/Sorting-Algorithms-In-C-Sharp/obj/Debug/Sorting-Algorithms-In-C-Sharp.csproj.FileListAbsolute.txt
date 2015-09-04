@@ -4,3 +4,9 @@ C:\Users\tester\Documents\Visual Studio 2013\Projects\Sorting-Algorithms-In-C-Sh
 C:\Users\tester\Documents\Visual Studio 2013\Projects\Sorting-Algorithms-In-C-Sharp\Sorting-Algorithms-In-C-Sharp\obj\Debug\Sorting-Algorithms-In-C-Sharp.csprojResolveAssemblyReference.cache
 C:\Users\tester\Documents\Visual Studio 2013\Projects\Sorting-Algorithms-In-C-Sharp\Sorting-Algorithms-In-C-Sharp\obj\Debug\Sorting-Algorithms-In-C-Sharp.exe
 C:\Users\tester\Documents\Visual Studio 2013\Projects\Sorting-Algorithms-In-C-Sharp\Sorting-Algorithms-In-C-Sharp\obj\Debug\Sorting-Algorithms-In-C-Sharp.pdb
+C:\Users\tester\Documents\GitHub\Sorting-Algorithms-In-C-Sharp\Sorting-Algorithms-In-C-Sharp\Sorting-Algorithms-In-C-Sharp\bin\Debug\Sorting-Algorithms-In-C-Sharp.exe.config
+C:\Users\tester\Documents\GitHub\Sorting-Algorithms-In-C-Sharp\Sorting-Algorithms-In-C-Sharp\Sorting-Algorithms-In-C-Sharp\obj\Debug\Sorting-Algorithms-In-C-Sharp.exe
+C:\Users\tester\Documents\GitHub\Sorting-Algorithms-In-C-Sharp\Sorting-Algorithms-In-C-Sharp\Sorting-Algorithms-In-C-Sharp\obj\Debug\Sorting-Algorithms-In-C-Sharp.pdb
+C:\Users\tester\Documents\GitHub\Sorting-Algorithms-In-C-Sharp\Sorting-Algorithms-In-C-Sharp\Sorting-Algorithms-In-C-Sharp\bin\Debug\Sorting-Algorithms-In-C-Sharp.exe
+C:\Users\tester\Documents\GitHub\Sorting-Algorithms-In-C-Sharp\Sorting-Algorithms-In-C-Sharp\Sorting-Algorithms-In-C-Sharp\bin\Debug\Sorting-Algorithms-In-C-Sharp.pdb
+C:\Users\tester\Documents\GitHub\Sorting-Algorithms-In-C-Sharp\Sorting-Algorithms-In-C-Sharp\Sorting-Algorithms-In-C-Sharp\obj\Debug\Sorting-Algorithms-In-C-Sharp.csprojResolveAssemblyReference.cache

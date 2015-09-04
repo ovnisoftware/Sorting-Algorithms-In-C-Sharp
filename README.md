@@ -11,3 +11,5 @@ Thanks to the lcc0612 Youtube channel for the best sorting algorithm explanation
 2. Bubble Sort - Highest numbers are bubbled to the right
  - Bubble_Sort.cs
  
+3. Cocktail Sort - Sorts in both directions on each pass through the list (Smallest on left, largest on right)
+ - Cocktail_Sort.cs

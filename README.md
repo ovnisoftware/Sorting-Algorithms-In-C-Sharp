@@ -13,3 +13,6 @@ Thanks to the lcc0612 Youtube channel for the best sorting algorithm explanation
  
 3. Cocktail Sort - Sorts in both directions on each pass through the list (Smallest on left, largest on right)
  - Cocktail_Sort.cs
+
+4. Insertion Sort - Builds the final sorted array one item at a time starting on the left with smallest numbers.
+ - Insertion_Sort.cs

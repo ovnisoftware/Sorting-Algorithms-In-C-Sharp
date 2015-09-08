@@ -18,4 +18,4 @@ Thanks to the lcc0612 Youtube channel for the best sorting algorithm explanation
  - Insertion_Sort.cs
 
 5. Bucket_Sort - Bucket sort breaks a list down into sub-lists, another algorithm sorts the sub-lists and the buckets are combined to return a fully sorted list
- - Buckeet_Sort.cs
+ - Bucket_Sort.cs

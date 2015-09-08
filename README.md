@@ -16,3 +16,6 @@ Thanks to the lcc0612 Youtube channel for the best sorting algorithm explanation
 
 4. Insertion Sort - Builds the final sorted array one item at a time starting on the left with smallest numbers.
  - Insertion_Sort.cs
+
+5. Bucket_Sort - Bucket sort breaks a list down into sub-lists, another algorithm sorts the sub-lists and the buckets are combined to return a fully sorted list
+ - Buckeet_Sort.cs

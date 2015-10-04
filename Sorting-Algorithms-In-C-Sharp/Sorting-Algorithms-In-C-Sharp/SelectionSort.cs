@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Sorting_Algorithms_In_C_Sharp
 {
-    public static class Selection_Sort
+    public static class SelectionSort
     {
         //Selection Sort
         //Write a program that traverses an array of integers, identifies the smallest integer
@@ -18,7 +18,7 @@ namespace Sorting_Algorithms_In_C_Sharp
         //Average case: O(N^2)
         //Worst case: O(N^2)
         //https://www.youtube.com/watch?v=MZ-ZeQnUL1Q
-        public static int[] SelectionSort(params int[] input)
+        public static int[] SelectionSort1(params int[] input)
         {
             for (int i = 0; i < input.Length; i++)
             {

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Sorting_Algorithms_In_C_Sharp
 {
-    public static class Bucket_Sort
+    public static class BucketSort
     {
         //Bucket sort breaks a list down into sub-lists, you can then use another algo to sort the sub-lists
         //Bucketsort isn't a good choice if you don't know the range or distribution of the data
@@ -17,7 +17,7 @@ namespace Sorting_Algorithms_In_C_Sharp
 
         //In this case, I will focus on building an algorithm that uses bucketsort to sort an array of integers between 1 and 99
         //I will also assume that the integers in the passed array are evenly distributed
-        public static List<int> BucketSort(params int[] x)
+        public static List<int> BucketSort1(params int[] x)
         {
             List<int> result = new List<int>();
 

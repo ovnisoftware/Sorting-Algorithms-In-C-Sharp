@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Sorting_Algorithms_In_C_Sharp
 {
-    public static class Insertion_Sort
+    public static class InsertionSort
     {
         //Insertion Sort
         //Builds the final sorted array one item at a time starting on the left with smallest numbers.
@@ -14,7 +14,7 @@ namespace Sorting_Algorithms_In_C_Sharp
         //Best case: O(n) (If list is already sorted, it only needs to go through list one time with boolean flag)
         //Average case: O(N^2)
         //Worst case: O(N^2) (Inversely sorted list (Ex. 4,3,2,1))
-        public static int[] InsertionSort(params int[] x)
+        public static int[] InsertionSort1(params int[] x)
         {
             for (int i = 1; i < x.Length; i++)
             {

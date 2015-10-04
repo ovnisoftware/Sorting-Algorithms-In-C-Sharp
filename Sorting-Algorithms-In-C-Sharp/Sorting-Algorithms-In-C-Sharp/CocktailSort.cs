@@ -6,14 +6,14 @@ using System.Threading.Tasks;
 
 namespace Sorting_Algorithms_In_C_Sharp
 {
-    public static class Cocktail_Sort
+    public static class CocktailSort
     {
         //Implement Cocktail Sort (Smallest on left, largest on right)
         //Best case: O(n) (If list is already sorted, it only needs to go through list one time) (with boolean flag)
         //Average case: O(N^2)
         //Worst case: O(N^2) (Inversely sorted list (Ex. 4,3,2,1))
         //Explanation: https://www.youtube.com/watch?v=Xmx_6YRBaq8
-        public static int[] CocktailSort(params int[] x)
+        public static int[] CocktailSort1(params int[] x)
         {
             for (int i = 0; i < x.Length / 2; i++)
             {

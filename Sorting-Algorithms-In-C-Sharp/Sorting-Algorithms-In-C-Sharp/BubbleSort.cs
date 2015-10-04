@@ -13,7 +13,7 @@ namespace Sorting_Algorithms_In_C_Sharp
     //Average case: O(N^2)
     //Worst case: O(N^2) (Inversely sorted list (Ex. 4,3,2,1))
     //https://www.youtube.com/watch?v=jAoBsroEow4
-    public static class Bubble_Sort
+    public static class BubbleSort
     {
         public static int[] BubbleSort(params int[] input)
         {

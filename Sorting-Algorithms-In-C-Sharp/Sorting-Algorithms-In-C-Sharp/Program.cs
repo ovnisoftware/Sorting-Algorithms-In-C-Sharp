@@ -10,7 +10,6 @@ namespace Sorting_Algorithms_In_C_Sharp
     {
         static void Main(string[] args)
         {
-
         }
     }
 }

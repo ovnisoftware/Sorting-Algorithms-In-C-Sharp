@@ -26,7 +26,7 @@ namespace Sorting_Algorithms_In_C_Sharp
                         x[k + 1] = temp;
                     }
                 }
-                for (int j = x.Length - 2 - i; j > 0; j--)
+                for (int j = x.Length - 2 - i; j > i; j--)
                 {
                     if (x[j] < x[j - 1])
                     {

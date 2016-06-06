@@ -20,6 +20,9 @@ namespace Sorting_Algorithms_In_C_Sharp
         //https://www.youtube.com/watch?v=MZ-ZeQnUL1Q
         public static int[] SelectionSort1(params int[] input)
         {
+            if ((input == null) || (input.Length == 0))
+                throw new Exception("Invalid input");
+
             for (int i = 0; i < input.Length; i++)
             {
                 int minPos = i;
